@@ -1,0 +1,9 @@
+Package: com.supergiu.waquote
+Name: WAQuote
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Enable Quote feature in WhatsApp Betas
+Maintainer: SUPERGIU <supergiu@outlook.com>
+Author: SUPERGIU <supergiu@outlook.com>
+Section: Tweaks
